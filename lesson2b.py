@@ -2,7 +2,7 @@
 # To introduce a tuple , we use paranthesis ()
 
 
-counties = ("Naironi", " Mombassa" , " Nakuru" , "Eldoret" , "Kajiado" , "Kisii")
+counties = ("Nairobi", " Mombassa" , " Nakuru" , "Eldoret" , "Kajiado" , "Kisii")
 
 print(counties)
 print(type(counties))
